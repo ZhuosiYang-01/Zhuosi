@@ -214,9 +214,13 @@ avg_mileage_by_fuel <- car_data %>%
   group_by(`Fuel type`) %>%
   summarize(avg_mileage = mean(Mileage, na.rm = TRUE))
 
+avg_mileage_by_fuel
+
 # Count cars by manufacturer
 car_count_by_brand <- car_data %>%
   count(Manufacturer)
+
+car_count_by_brand
 
 ```
 
