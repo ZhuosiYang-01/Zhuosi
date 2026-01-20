@@ -15,8 +15,8 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[Students will customize this section]
+I am Zhuosi Yang, a first-year MCP student. My concentration is Smart Cities. I had Qaunt, Modeling and Statistics last semester and would like to learn further in R.
 
 ## Contact
-- Email: [your.email@upenn.edu]
-- GitHub: [@your-username]
+- Email: yang2025@upenn.edu
+- GitHub: @Zhuosi-01
