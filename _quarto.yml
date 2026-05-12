@@ -26,6 +26,10 @@ website:
             text: "Lab 4: Spatial Predictive Analysis"
           - href: labs/lab_5/
             text: "Lab 5: Bikeshare SpaceTime Prediction"
+          - href: labs/lab_6/Predicting SEPTA Bus Stop Ridership Slides.html
+            text: "Lab 6: Predicting SEPTA Bus Stop Ridership_Presentation"
+          - href: labs/lab_6/lab6.1.html
+            text: "Lab 6: Predicting SEPTA Bus Stop Ridership_Appendix"
 format:
   html:
     theme: cosmo
